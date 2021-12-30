@@ -11,9 +11,9 @@ public class Code20 {
     public boolean isValid(String s) {
 
         HashMap<Character,Character> pairs=new HashMap<>();
-        pairs.put('{','}');
-        pairs.put('[',']');
-        pairs.put('(',')');
+        pairs.put('}','{');
+        pairs.put(']','[');
+        pairs.put(')','(');
 
         int length=s.length();
         if(length%2!=0){
@@ -23,7 +23,12 @@ public class Code20 {
             for (int i = 0; i < length; i++) {
                 char ch = s.charAt(i);
                 if(pairs.containsKey(ch)){
-                    
+                    if(stack.isEmpty()||stack.peek()!=pairs.get(ch)) {
+                        return false;
+                    }
+                    stack.pop();
+                }else {
+                    stack.push(ch);
                 }
             }
         }
