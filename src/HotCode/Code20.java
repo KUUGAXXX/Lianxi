@@ -31,6 +31,7 @@ public class Code20 {
                     stack.push(ch);
                 }
             }
+            return stack.isEmpty();
         }
 
     }
