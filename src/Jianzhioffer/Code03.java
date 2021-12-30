@@ -1,6 +1,6 @@
 package Jianzhioffer;
 
-public class Code1 {
+public class Code3 {
     public static void main(String[] args) {
         int arr[]=new int[]{3, 4, 2, 0, 0, 1,2,1,4,5};
        int  result=findRepeatNumber(arr);
