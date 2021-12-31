@@ -25,6 +25,7 @@ public class Code07 {
      * @param in_right_idx 中序遍历的索引
      */
     public TreeNode recursive(int pre_root_idx,int in_left_idx,int in_right_idx){
+        //相等就是自己
         if (in_left_idx > in_right_idx) {
             return null;
         }
