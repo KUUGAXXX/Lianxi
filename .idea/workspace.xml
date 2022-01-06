@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6b19888-4c04-46b1-93aa-9f58a73f2db4" name="默认" comment="算法练习">
-      <change afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Code153.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lianxi/Jianzhioffer/Code12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lianxi/Jianzhioffer/Code12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jianzhioffer/Code12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code12.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,24 +38,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="117" />
+          <entry key="java" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="117" />
+          <entry key="JAVA" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="11789" />
+          <entry key="java" value="12057" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11789" />
+          <entry key="JAVA" value="12057" />
           <entry key="PLAIN_TEXT" value="26" />
         </counts>
       </usages-collector>
@@ -73,11 +72,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread3.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,11 +176,11 @@
         <option value="$PROJECT_DIR$/src/ConcurrentThread/InterruptDemo.java" />
         <option value="$PROJECT_DIR$/src/ConcurrentThread/CreateThread.java" />
         <option value="$PROJECT_DIR$/src/ConcurrentThread/CreateThread1.java" />
-        <option value="$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java" />
         <option value="$PROJECT_DIR$/src/ConcurrentThread/CreateThread3.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/Code153.java" />
         <option value="$PROJECT_DIR$/src/Jianzhioffer/Code11.java" />
         <option value="$PROJECT_DIR$/src/Jianzhioffer/Code12.java" />
+        <option value="$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java" />
       </list>
     </option>
   </component>
@@ -221,6 +254,33 @@
               <item name="Lianxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lianxi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcurrentThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lianxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcurrentThread" type="462c0819:PsiDirectoryNode" />
+              <item name="CreateThread1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Lianxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcurrentThread" type="462c0819:PsiDirectoryNode" />
+              <item name="CreateThread2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Lianxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcurrentThread" type="462c0819:PsiDirectoryNode" />
+              <item name="CreateThread3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Lianxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HotCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,7 +312,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641351311017" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641460688864" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CycTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -357,8 +417,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Code12" />
-        <item itemvalue="Application.Code153" />
         <item itemvalue="Application.CreateThread3" />
+        <item itemvalue="Application.Code153" />
         <item itemvalue="Application.CreateThread2" />
         <item itemvalue="Application.CreateThread1" />
       </list>
@@ -398,7 +458,7 @@
       <workItem from="1640677906975" duration="86008000" />
       <workItem from="1641351368965" duration="278000" />
       <workItem from="1641351695435" duration="79000" />
-      <workItem from="1641351786221" duration="599000" />
+      <workItem from="1641351786221" duration="4900000" />
     </task>
     <task id="LOCAL-00001" summary="算法练习">
       <created>1640678760853</created>
@@ -411,7 +471,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168136000" />
+    <option name="totallyTimeSpent" value="172437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -426,7 +486,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2851064" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2851064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,7 +495,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="调试" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.40425533" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.22695035" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -478,6 +538,36 @@
           <line>14</line>
           <properties />
           <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="156" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -700,34 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/InterruptDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -840,10 +902,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java">
+    <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
         </state>
       </provider>
     </entry>
