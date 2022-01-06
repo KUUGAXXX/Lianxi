@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6b19888-4c04-46b1-93aa-9f58a73f2db4" name="默认" comment="算法练习">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lianxi/Jianzhioffer/Code12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lianxi/Jianzhioffer/Code12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jianzhioffer/Code12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="154">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -312,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641460688864" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641460913165" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CycTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -458,7 +456,7 @@
       <workItem from="1640677906975" duration="86008000" />
       <workItem from="1641351368965" duration="278000" />
       <workItem from="1641351695435" duration="79000" />
-      <workItem from="1641351786221" duration="4900000" />
+      <workItem from="1641351786221" duration="4904000" />
     </task>
     <task id="LOCAL-00001" summary="算法练习">
       <created>1640678760853</created>
@@ -471,7 +469,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172437000" />
+    <option name="totallyTimeSpent" value="172441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -932,8 +930,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="154">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>

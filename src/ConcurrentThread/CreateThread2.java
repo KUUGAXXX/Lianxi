@@ -14,7 +14,6 @@ public class CreateThread2 {
 //            不管何种情况下，要想启动多线程，一定依靠Thread类完成，Thread类定义有以下构造方法。
             Thread result=new Thread(thread2);
             result.start();
-
         }
     }
 }
