@@ -1,6 +1,6 @@
 package Jianzhioffer;
 
-public class Cocd18 {
+public class Code18 {
     public static ListNode deleteNode(ListNode head, int val) {
         if(head.val==val){
             return head.next;
@@ -36,6 +36,7 @@ public class Cocd18 {
                 temp.next=p;
             }
         }
+
         ListNode n2=deleteNode(n1,2);
         System.out.println(n2);
     }
