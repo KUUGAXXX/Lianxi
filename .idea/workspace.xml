@@ -2,147 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6b19888-4c04-46b1-93aa-9f58a73f2db4" name="默认" comment="算法练习">
-      <change afterPath="$PROJECT_DIR$/src/ConcurrentThread/CreateTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConcurrentThread/SynchronizedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jianzhioffer/Cai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Tuofeng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Demo55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lianxi/Jianzhioffer/Cocd18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jianzhioffer/Cocd18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jianzhioffer/Code18.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="351944525">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="8" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="33" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="184" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="184" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="39" />
-          <entry key="java" value="15606" />
-          <entry key="txt" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="15606" />
-          <entry key="PLAIN_TEXT" value="47" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HotCode/Code1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              <folding>
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/Tuofeng.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/SynchronizedDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateThread3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcurrentThread/CreateTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -248,6 +115,7 @@
     <option name="width" value="1615" />
     <option name="height" value="850" />
   </component>
+  <component name="ProjectId" id="2O5jQhXWSxEKVwCp1ivhO6HO40B" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -263,6 +131,7 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="ProjectView">
@@ -304,17 +173,21 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1672304211751" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/oilwarehouse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../canal/spring-boot-starter-canal-master/spring-boot-starter-canal-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -324,51 +197,26 @@
       <recent name="C:\workspase\Lianxi\src\ConcurrentThread" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Tuofeng">
-    <configuration name="Code1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HotCode.Code1" />
-      <module name="Lianxi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HotCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConcurrentThread.CreateTest1" />
-      <module name="Lianxi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ConcurrentThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo55">
     <configuration name="CreateThread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcurrentThread.CreateThread1" />
       <module name="Lianxi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ConcurrentThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Demo55" />
+      <module name="Lianxi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,6 +237,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test11" />
+      <module name="Lianxi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tuofeng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Tuofeng" />
       <module name="Lianxi" />
@@ -402,23 +263,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Code1" />
       <item itemvalue="Application.CreateThread1" />
-      <item itemvalue="Application.CreateTest1" />
       <item itemvalue="Application.SynchronizedDemo" />
       <item itemvalue="Application.Tuofeng" />
+      <item itemvalue="Application.Demo55" />
+      <item itemvalue="Application.Test11" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tuofeng" />
+        <item itemvalue="Application.Demo55" />
+        <item itemvalue="Application.Test11" />
         <item itemvalue="Application.SynchronizedDemo" />
+        <item itemvalue="Application.Tuofeng" />
         <item itemvalue="Application.CreateThread1" />
-        <item itemvalue="Application.CreateTest1" />
-        <item itemvalue="Application.Code1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -462,6 +335,15 @@
       <workItem from="1672294447190" duration="177000" />
       <workItem from="1672294632516" duration="3553000" />
       <workItem from="1673017645955" duration="968000" />
+      <workItem from="1680857324348" duration="1737000" />
+      <workItem from="1681434304202" duration="792000" />
+      <workItem from="1683623246705" duration="1494000" />
+      <workItem from="1683681803568" duration="591000" />
+      <workItem from="1684045965776" duration="631000" />
+      <workItem from="1684400677405" duration="636000" />
+      <workItem from="1684415786959" duration="646000" />
+      <workItem from="1684811615847" duration="3325000" />
+      <workItem from="1684826048633" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="算法练习">
       <created>1640678760853</created>
@@ -543,10 +425,19 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法练习" />
@@ -558,104 +449,112 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code03.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code03.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code03.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code12.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code18.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code18.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code21.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="202" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code21.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="203" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code21.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="204" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code21.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code21.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code22.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code22.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="209" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code22.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="214" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code22.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="219" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jianzhioffer/Code22.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Demo55.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Demo55.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Demo55.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Demo55.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Demo55.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="226" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -701,21 +600,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
+    <entry file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="2246" column="76" lean-forward="true" selection-start-line="2246" selection-start-column="76" selection-end-line="2246" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/javax/swing/tree/TreeNode.java">
+    <entry file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_111/src.zip!/javax/swing/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/reflect/Method.java">
+    <entry file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
@@ -967,7 +866,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
+    <entry file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="263" column="32" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
